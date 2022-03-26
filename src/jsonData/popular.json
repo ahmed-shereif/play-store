@@ -1,0 +1,58 @@
+[
+  {
+    "id":"9",
+    "name": "Call of Duty",
+    "img": "https://i.pinimg.com/originals/f1/71/f6/f171f6a1b8b2aba7115368630f3e2a0e.png",
+    "data": "",
+    "rating":"5.0",
+    "fullPhoto":"https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/body/vgd/VGD_PRE-ORDER_001.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Castle of Illusion",
+    "img": "https://play-lh.googleusercontent.com/35d8WAtrOoRRNhB_o0ost9N_pYuSp9t3vEQ_hbuzra1a38d-yjI04Lh_KpoXi6GU2Y8=s180-rw",
+    "data": "",
+    "description": "This app is available for all of your devices",
+    "about":"They're cute, they're fluffy and they love to play! Care for a flock of adorable little sheep in this excessively cute and charming sandbox game!",
+    "readMore":"Mickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic. When the evil witch Mizrabel kidnaps Minnie, it’s up to Mickey to brave the dangers of the Castle of Illusions to rescue Minnie. Gather your courage and traverse enchanted forests, take on hordes of rebellious toys and navigate mazes of living books. Play as Mickey and save Minnie from Mizrabel’s evil clutches!",
+    "rating":"4.8",
+    "fullPhoto":"https://cdn.akamai.steamstatic.com/steam/apps/227600/capsule_616x353.jpg?t=1603127414"
+
+
+  },
+  {
+    "id": 6,
+    "name": "Ludo Club - Fun Dice Game",
+    "img": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s180-rw",
+    "data": "",
+    "description":"Play Ludo online with friends and be a star - play LUDO CLUB!",
+    "about":"This is the online multiplayer version of the epic hit board game Ludo! Join an exclusive club of star players in this premium dice game - be the best player, climb the ladders, collect all the special dice and become the KING OF LUDO!",
+    "readMore":"Learn how to move your red, yellow, green or blue pieces with strategy and luck on best looking games board. Be the king of Ludo and become a star! Compete against other players and reach the top of the leaderboard! This is a fun game, a quick game, and a dice based board game that you can download and install for hours of fun and enjoyment!",
+    "rating":"4.7",    
+    "fullPhoto":"https://encdn.ldmnq.com/ldstore/ar/ZQHi4S-1631955599551.webp"
+
+  },
+  {
+    "id": 7,
+    "name": "Tennis World Open 2022 ",
+    "img": "https://play-lh.googleusercontent.com/A8G8VPJKr3RCqK1gAodNMAftuGMRZX6exiZq2lJx-ODjecDXP-Mri3Q827xvdHOpg6E=s180-rw",
+    "data": "",
+    "description":"Tennis World Open 2022 is here!",
+    "about":"Don't hesitate and enjoy the real atmosphere of this one of the best tennis games. Show other players who is the best player of the free tennis games and win all tenis tournaments including French open and many more tenis matches!",
+    "readMore":"Experience tennis game in 3D! Here your knowledge of tenis is a valuable asset. You will have a chance to get better in your tenis skills, playstyles, and moves where we paid attention to every detail so we can be better than any other tennis game. Also, you can enjoy the real pleasure from free tennis games.",
+    "rating":"4.2",
+    "fullPhoto":"https://play-lh.googleusercontent.com/a6DGEMLFBAWuJeQgCSqAHUYheod3wWCU3RyI-q-yayv3jJD8LffGKghLLUXLKWHgGg"
+
+  },  {
+    "id": 4,
+    "name": "Clouds & Sheep Premium",
+    "img": "https://play-lh.googleusercontent.com/2xK7RdZ-I7NRlO1wEX0rDCFfWoW5BR5LIH_KCbEArYHiy3cRf-Pibg_x_TczapBeLA=s180-rw",
+    "description": "This app is available for all of your devices",
+    "about":"They're cute, they're fluffy and they love to play! Care for a flock of adorable little sheep in this excessively cute and charming sandbox game!",
+    "readMore":"The fluffy and sweet balls of wool love it when you play and interact with them. Adorable as they may be, they´re not very smart. If there's a poisonous mushroom, they'll eat it. When the sun is shining, they'll just stand there until they have a heatstroke - and when the weather turns bad, they'll happily stand under thunderclouds and rain until they catch a cold or get struck by thunder and lightning.",
+    "rating":"4.3"    
+    ,"fullPhoto":"https://cdn6.aptoide.com/imgs/0/f/7/0f7fa445599b39a194d72a4543abf509_screen.png?h=500"
+
+    
+  }
+]
