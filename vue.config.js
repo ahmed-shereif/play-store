@@ -5,5 +5,5 @@ module.exports = defineConfig({
 })
 
 module.exports={
-  publicPath : '/play-store/'
+  publicPath : '/gh-page/'
 }
